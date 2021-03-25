@@ -3,7 +3,9 @@
 My name is Armando Vilaça Lambertucci from Brazil. I am a Full-Stack Developer, my preview background was as a Civil Engineer with Geotechnical Degree. 
 End of 2018 I made a difficult decision of changing profession, truth is that I always looked at I.T in my graduation as something really challenging and pleasant at the same time therefore I decided to give a chance to my tech-side and started a WebDevelopment degree, I was blown away by how rewarding was to create things and solve problems .then("Ok I really like it, and in that I will put all my effort" :rocket:).catch("resilience!" :muscle:)
 
-Since 2019 I'm working as a Full-Stack Developer in Tecna Sistemas (https://www.tecnasistemas.com.br/). I've beeing building integrations and private apps between Zendesk and other plataforms like (ERP, TSM etc...) I'm really gratefull to Tecna Sistemas that bet on me and opened the doors so I could deliver the best of me.
+Started in 2019 working as a Full-Stack Developer in Tecna Sistemas (https://www.tecnasistemas.com.br/). I've beeing building integrations and private apps between Zendesk and other plataforms like (ERP, TSM etc...) I'm really gratefull to Tecna Sistemas that bet on me and opened the doors so I could deliver the best of me.
+
+Recently I joined Code7 (https://www.code7.com/) Python Back-end team, I integrate Code7 cloud products with CRM, CSM as, Salesforce, Hubspot, Zendesk, Pipedrive, RD etc...
 
 In my free time I like to play (and watch) tenis (🎾), to watch movies (🎞️) and series (📺), to read books (📚), to play the guitar (🎸) and eventually I like to philosophize about life with a beer (🍺).
 
@@ -19,12 +21,12 @@ Would you like to find me?
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on Code7 Integrations
+- 🌱 I’m currently learning Aws developer skills
+- 👯 I’m looking to collaborate on Facilitating integrations on systems
+- 🤔 I’m looking for help with anything related with python 
+- 💬 Ask me about The difference about IT and Civil Engineering communities
+- 📫 How to reach me: armandolambertucci@gmail.com / @avlambertucci
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Cant whistle
 -->
