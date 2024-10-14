@@ -5,7 +5,9 @@ End of 2018 I made a difficult decision of changing profession, truth is that I 
 
 Started in 2019 working as a Full-Stack Developer in Tecna Sistemas (https://www.tecnasistemas.com.br/). I've beeing building integrations and private apps between Zendesk and other plataforms like (ERP, TSM etc...) I'm really gratefull to Tecna Sistemas that bet on me and opened the doors so I could deliver the best of me.
 
-Recently I joined Code7 (https://www.code7.com/) Python Back-end team, I integrate Code7 cloud products with CRM, CSM as, Salesforce, Hubspot, Zendesk, Pipedrive, RD etc... We are Sass and AWS partners, thats why we use a lot of AWS services such as Lambdas, SNS, CloudFront, CloudWatch, DynamoDB et...
+In 2020 during pademic joined Code7 (https://www.code7.com/) Python Back-end team, I integrate Code7 cloud products with CRM, CSM as, Salesforce, Hubspot, Zendesk, Pipedrive, RD etc... They are a Sass solution and AWS partners, thats why we used lots of AWS services such as Lambdas, SNS, CloudFront, CloudWatch, DynamoDB etc...
+
+I moved with my family to Canada 🇨🇦 in 2021, and since then I've been working at GetSmartSolutions in a project called PICTUS app. I've been responsible to refactor Vue2 components to Vue3 using composition API, our stack is VueJS as frontend framework, in Python we use Django as framework, we also use AWS SNS, SES, Redis and CELERY to some of our background jobs.
 
 In my free time I like to play (and watch) tenis (🎾), to watch movies (🎞️) and series (📺), to read books (📚), to play the guitar (🎸) and eventually I like to philosophize about life with a beer (🍺).
 
